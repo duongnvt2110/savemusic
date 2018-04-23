@@ -1,0 +1,30 @@
+body
+{
+}
+.header
+{
+
+}
+.logo
+{
+    padding-top: 3%;
+    position: relative;
+    font:normal normal normal 65px/1 FontAwesome!important;
+}
+.contain
+{
+    text-align: center;
+    position: relative;
+    padding-top: 10%;
+     font:normal normal normal 22px/1 FontAwesome!important;
+}
+
+a:hover{
+    text-decoration: none!important;
+    
+}
+.btn
+{
+    font-size: 25px!important;
+}
+
